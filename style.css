@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(#D6BFF9 40%, #B182F8 90%);
+    color: floralwhite;
+    font-family: 'Rouge Script', cursive;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.line {
+    background-color: floralwhite;
+    height: 3px;
+    width: 430px;
+    margin-left: 500px;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+p {
+    font-size: 30px;
+}
+
+.rainbow {
+    width: 430px;
+    height: 470px;
+}
+
+.fluttershy {
+    width: 550px;
+    height: 400px;
+}
+
+.twilight {
+    width: 600px;
+    height: 500px;
+}
